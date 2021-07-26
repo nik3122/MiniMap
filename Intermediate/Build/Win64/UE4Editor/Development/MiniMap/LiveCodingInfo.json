@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MiniMap.cpp.obj": [
+			"MiniMap.cpp.obj",
+			"MiniMapFunctionLibrary.cpp.obj"
+		],
+		"Module.MiniMap.gen.cpp.obj": [
+			"MiniMap.init.gen.cpp.obj",
+			"MiniMapFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}

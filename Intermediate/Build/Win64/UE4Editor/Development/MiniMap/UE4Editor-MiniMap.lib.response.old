@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MiniMap.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Project_Unreal\YLH\Intermediate\Build\Win64\YLHEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Project_Unreal\YLH\Plugins\MiniMap\Intermediate\Build\Win64\UE4Editor\Development\MiniMap\Module.MiniMap.cpp.obj"
+"D:\Project_Unreal\YLH\Plugins\MiniMap\Intermediate\Build\Win64\UE4Editor\Development\MiniMap\Module.MiniMap.gen.cpp.obj"
+"D:\Project_Unreal\YLH\Plugins\MiniMap\Intermediate\Build\Win64\UE4Editor\Development\MiniMap\Default.rc2.res"
+/OUT:"D:\Project_Unreal\YLH\Plugins\MiniMap\Intermediate\Build\Win64\UE4Editor\Development\MiniMap\UE4Editor-MiniMap.lib"
+/INCLUDE:IMPLEMENT_MODULE_MiniMap
